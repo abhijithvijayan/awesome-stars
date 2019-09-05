@@ -770,6 +770,7 @@
 - [Enigma-Simulator](https://github.com/Code-Bullet/Enigma-Simulator) -   
 
 ## Python
+- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time  
 - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).  
 - [rpi-gps](https://github.com/initialstate/rpi-gps) - Raspberry Pi GPS Tracker  
 - [Raspberry-Pi-Gas-Sensor-MQ](https://github.com/tutRPi/Raspberry-Pi-Gas-Sensor-MQ) - Raspberry Pi Library for several MQ Gas Sensors (MQ-2, MQ-3, etc.)  
