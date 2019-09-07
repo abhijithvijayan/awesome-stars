@@ -107,6 +107,7 @@
 - [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone  
 
 ## CSS
+- [saving-card-after-payment](https://github.com/stripe-samples/saving-card-after-payment) - Learn how to save a card for later reuse after making a payment  
 - [RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system  
 - [rfs](https://github.com/twbs/rfs) - 📐 Automate your responsive workflow  
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets  
@@ -206,6 +207,7 @@
 - [react-native-camera](https://github.com/react-native-community/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!  
 - [react-native-video](https://github.com/react-native-community/react-native-video) - A &lt;Video /&gt; component for react-native  
 - [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native  
+- [react-native-youtube](https://github.com/inProgress-team/react-native-youtube) - A &lt;YouTube/&gt; component for React Native.  
 - [camera](https://github.com/android/camera) - Multiple samples showing the best practices in camera APIs on Android.  
 - [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages (chat https://gitter.im/AnySoftKeyboard)  
 - [Android](https://github.com/hmkcode/Android) - Android related examples  
@@ -551,7 +553,6 @@
 - [rematch](https://github.com/rematch/rematch) - A Redux Framework  
 - [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React  
 - [react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux  
-- [redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps  
 - [redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for Redux  
 - [eslint-config-wesbos](https://github.com/wesbos/eslint-config-wesbos) - No-Sweat™ Eslint and Prettier Setup - with or without VS Code  
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React  
@@ -706,7 +707,6 @@
 
 ## Objective-C
 - [react-native-maps](https://github.com/react-native-community/react-native-maps) - React Native Mapview component for iOS + Android  
-- [react-native-youtube](https://github.com/inProgress-team/react-native-youtube) - A &lt;YouTube/&gt; component for React Native.  
 
 ## Others
 - [server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs  
@@ -770,6 +770,8 @@
 - [Enigma-Simulator](https://github.com/Code-Bullet/Enigma-Simulator) -   
 
 ## Python
+- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.  
+- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.  
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time  
 - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).  
 - [rpi-gps](https://github.com/initialstate/rpi-gps) - Raspberry Pi GPS Tracker  
@@ -777,7 +779,6 @@
 - [sncli](https://github.com/insanum/sncli) - Simplenote CLI  
 - [simplenote.py](https://github.com/mrtazz/simplenote.py) - Python API wrapper for the Simplenote web service  
 - [node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool  
-- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!  
 - [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!  
 - [inter](https://github.com/rsms/inter) - The Inter font family  
 - [rescuekerala](https://github.com/IEEEKeralaSection/rescuekerala) - Website for coordinating rehabilitation of people affected in the Kerala Floods  
@@ -826,7 +827,6 @@
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python  
 - [keras](https://github.com/keras-team/keras) - Deep Learning for humans  
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/  
-- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.  
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.  
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites  
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources  
@@ -924,6 +924,7 @@
 - [react-three-fiber](https://github.com/react-spring/react-three-fiber) - ☘️ A React-renderer for Three.js  
 - [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.  
 - [NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.  
+- [redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps  
 - [web](https://github.com/pikapkg/web) - :package: :sparkles: Bundle only once, at install time. https://www.pika.dev/blog/pika-web-a-future-without-webpack/  
 - [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴  
 - [vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code  
