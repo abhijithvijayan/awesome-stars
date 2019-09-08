@@ -83,6 +83,7 @@
 - [FIcontent.Gaming.Application.TreasureHunt](https://github.com/fi-content2-games-platform/FIcontent.Gaming.Application.TreasureHunt) - The Augmented Reality TreasureHunt game implementing the city-wide scavenger hunt game scenario  
 
 ## C++
+- [filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL  
 - [CLRS](https://github.com/gzc/CLRS) - :notebook:Solutions to Introduction to Algorithms  
 - [R2D2-2017](https://github.com/R2D2-2017/R2D2-2017) - The main repository of the R2D2 project of 2017.  
 - [nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with JavaScript and CSS like styling.  
@@ -163,6 +164,8 @@
 - [hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools is a utility that disables a number of risky Windows features.  
 
 ## HTML
+- [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser  
+- [kinetic](https://github.com/ariya/kinetic) - Kinetic Scrolling with JavaScript  
 - [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.  
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.  
 - [Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.  
@@ -244,6 +247,7 @@
 - [A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for&#34;A Guide to Running Tensorflow Models on Android&#34; By SIraj Raval on Youtube  
 
 ## JavaScript
+- [node-jwt-simple](https://github.com/hokaccha/node-jwt-simple) - JWT(JSON Web Token) encode and decode module for node.js  
 - [truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.  
 - [stargazed](https://github.com/abhijithvijayan/stargazed) - Creating your own Awesome List of GitHub stars!  
 - [gh-got](https://github.com/sindresorhus/gh-got) - Convenience wrapper for `got` to interact with the GitHub API  
