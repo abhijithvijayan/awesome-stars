@@ -717,6 +717,8 @@
 - [react-native-maps](https://github.com/react-native-community/react-native-maps) - React Native Mapview component for iOS + Android  
 
 ## Others
+- [eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation  
+- [reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview  
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)  
 - [server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs  
 - [awesome-distributed-systems](https://github.com/rShetty/awesome-distributed-systems) - Awesome list of distributed systems resources  
@@ -892,6 +894,7 @@
 - [Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook  
 
 ## TypeScript
+- [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js  
 - [template](https://github.com/fabiospampinato/template) - A super-simple way to create new projects based on templates.  
 - [newsletter-cli](https://github.com/JustComments/newsletter-cli) - Write newsletters in Markdown and send to many recipients from your machine using AWS SES  
 - [prisma2](https://github.com/prisma/prisma2) - 👀 Prisma 2 Preview  
