@@ -248,6 +248,7 @@
 - [A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for&#34;A Guide to Running Tensorflow Models on Android&#34; By SIraj Raval on Youtube  
 
 ## JavaScript
+- [leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.  
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️  
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps  
 - [node-jwt-simple](https://github.com/hokaccha/node-jwt-simple) - JWT(JSON Web Token) encode and decode module for node.js  
@@ -716,6 +717,7 @@
 - [react-native-maps](https://github.com/react-native-community/react-native-maps) - React Native Mapview component for iOS + Android  
 
 ## Others
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)  
 - [server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs  
 - [awesome-distributed-systems](https://github.com/rShetty/awesome-distributed-systems) - Awesome list of distributed systems resources  
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub  
@@ -777,6 +779,7 @@
 - [Enigma-Simulator](https://github.com/Code-Bullet/Enigma-Simulator) -   
 
 ## Python
+- [heartrate](https://github.com/alexmojaki/heartrate) - Simple real time visualisation of the execution of a Python program.  
 - [watchgod](https://github.com/samuelcolvin/watchgod) - Simple, modern file watching and code reload in python.  
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.  
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.  
