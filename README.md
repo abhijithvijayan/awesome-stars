@@ -86,7 +86,7 @@
 - [filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL  
 - [CLRS](https://github.com/gzc/CLRS) - :notebook:Solutions to Introduction to Algorithms  
 - [R2D2-2017](https://github.com/R2D2-2017/R2D2-2017) - The main repository of the R2D2 project of 2017.  
-- [nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with JavaScript and CSS like styling.  
+- [nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with JavaScript and CSS like styling 🚀.  For React NodeGUI, visit: https://github.com/nodegui/react-nodegui ⚛️  
 - [server](https://github.com/MariaDB/server) - MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.  
 - [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.  
 - [clang](https://github.com/llvm-mirror/clang) - Mirror of official clang git repository located at http://llvm.org/git/clang.  Updated every five minutes.  
@@ -191,6 +191,7 @@
 - [jasper2](https://github.com/jekyller/jasper2) - Full-featured Jekyll port of Ghost's default theme Casper v2 👻  
 
 ## Java
+- [selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.  
 - [Osmand](https://github.com/osmandapp/Osmand) - OsmAnd  
 - [swiftp](https://github.com/ppareit/swiftp) - FTP server for your android device.  
 - [Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video  
@@ -247,6 +248,8 @@
 - [A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for&#34;A Guide to Running Tensorflow Models on Android&#34; By SIraj Raval on Youtube  
 
 ## JavaScript
+- [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️  
+- [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps  
 - [node-jwt-simple](https://github.com/hokaccha/node-jwt-simple) - JWT(JSON Web Token) encode and decode module for node.js  
 - [truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.  
 - [stargazed](https://github.com/abhijithvijayan/stargazed) - Creating your own Awesome List of GitHub stars!  
@@ -774,6 +777,7 @@
 - [Enigma-Simulator](https://github.com/Code-Bullet/Enigma-Simulator) -   
 
 ## Python
+- [watchgod](https://github.com/samuelcolvin/watchgod) - Simple, modern file watching and code reload in python.  
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.  
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.  
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time  
@@ -885,6 +889,7 @@
 - [Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook  
 
 ## TypeScript
+- [template](https://github.com/fabiospampinato/template) - A super-simple way to create new projects based on templates.  
 - [newsletter-cli](https://github.com/JustComments/newsletter-cli) - Write newsletters in Markdown and send to many recipients from your machine using AWS SES  
 - [prisma2](https://github.com/prisma/prisma2) - 👀 Prisma 2 Preview  
 - [vscode-wakatime](https://github.com/wakatime/vscode-wakatime) - Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity.  
@@ -925,7 +930,7 @@
 - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - 💬 The most complete chat UI for React Native  
 - [react-native-tab-view](https://github.com/react-native-community/react-native-tab-view) - A cross-platform Tab View component for React Native  
 - [react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps  
-- [react-three-fiber](https://github.com/react-spring/react-three-fiber) - ☘️ A React-renderer for Three.js  
+- [react-three-fiber](https://github.com/react-spring/react-three-fiber) - ☘️ A React-renderer for Three.js (for the web and react-native)  
 - [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.  
 - [NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.  
 - [redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps  
@@ -933,7 +938,7 @@
 - [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴  
 - [vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code  
 - [refined-github](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features  
-- [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language  
+- [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library  
 - [ueli](https://github.com/oliverschwendener/ueli) - This is a keystroke launcher for Windows and macOS.  
 - [node-kutt](https://github.com/ardalanamini/node-kutt) - Node.js client for Kutt.it url shortener  
 - [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm  
