@@ -181,7 +181,7 @@
 - [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links  
 - [design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.  
 - [infinite-scroll](https://github.com/metafizzy/infinite-scroll) - 📜 Automatically add next page  
-- [foundation-sites](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.  
+- [foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.  
 - [speedtest](https://github.com/adolfintel/speedtest) - Self-hosted HTML5 Speedtest. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more  
 - [electron-instaPy-GUI](https://github.com/ahmadudin/electron-instaPy-GUI) - Graphic user interface for https://github.com/timgrossmann/InstaPy  
 - [startbootstrap-simple-sidebar](https://github.com/BlackrockDigital/startbootstrap-simple-sidebar) - An off canvas sidebar navigation Bootstrap HTML template created by Start Bootstrap  
@@ -248,6 +248,8 @@
 - [A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for&#34;A Guide to Running Tensorflow Models on Android&#34; By SIraj Raval on Youtube  
 
 ## JavaScript
+- [css-colours-sorted](https://github.com/wesbos/css-colours-sorted) - CSS Colours Sorted By  
+- [react-flippy](https://github.com/sbayd/react-flippy) - Flipping Cards for your React Projects. React-Flippy allows you to create flipper event with your content.  
 - [leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.  
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️  
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps  
@@ -299,7 +301,7 @@
 - [react-transition-group](https://github.com/reactjs/react-transition-group) - An easy way to perform animations when a React component enters or leaves the DOM  
 - [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine  
 - [dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) - Data Structures and Algorithms explained and implemented in JavaScript  
-- [iptv](https://github.com/freearhey/iptv) - Collection of 6000+ publicly available IPTV channels from all over the world.  
+- [iptv](https://github.com/freearhey/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world  
 - [bird-box](https://github.com/matchai/bird-box) - 🐦💬 Update a gist to contain your latest tweet  
 - [showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript  
 - [react-devtools-tutorial](https://github.com/bvaughn/react-devtools-tutorial) - Interactive tutorial featuring the React DevTools v4  
