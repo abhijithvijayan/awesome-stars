@@ -191,6 +191,9 @@
 - [jasper2](https://github.com/jekyller/jasper2) - Full-featured Jekyll port of Ghost's default theme Casper v2 👻  
 
 ## Java
+- [apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!  
+- [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) - This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.  
+- [2048-android](https://github.com/uberspot/2048-android) - The android port of the 2048 game (for offline playing)  
 - [selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.  
 - [Osmand](https://github.com/osmandapp/Osmand) - OsmAnd  
 - [swiftp](https://github.com/ppareit/swiftp) - FTP server for your android device.  
@@ -228,7 +231,6 @@
 - [Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.  
 - [Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source  
 - [Phonograph](https://github.com/kabouzeid/Phonograph) - A material designed music player for Android  
-- [Timber](https://github.com/naman14/Timber) - Material Design Music Player  
 - [Omni-Notes](https://github.com/federicoiosue/Omni-Notes) - Open source note-taking application for Android  
 - [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android  
 - [k-9](https://github.com/k9mail/k-9) - K-9 Mail – Advanced Email for Android 📧  
@@ -248,6 +250,7 @@
 - [A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for&#34;A Guide to Running Tensorflow Models on Android&#34; By SIraj Raval on Youtube  
 
 ## JavaScript
+- [js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies  
 - [css-colours-sorted](https://github.com/wesbos/css-colours-sorted) - CSS Colours Sorted By  
 - [react-flippy](https://github.com/sbayd/react-flippy) - Flipping Cards for your React Projects. React-Flippy allows you to create flipper event with your content.  
 - [leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.  
@@ -454,7 +457,7 @@
 - [redux-saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps  
 - [reselect](https://github.com/reduxjs/reselect) - Selector library for Redux  
 - [react-native-web](https://github.com/necolas/react-native-web) - React Native for Web  
-- [linting-and-formatting](https://github.com/Mixgenius/linting-and-formatting) -   
+- [linting-and-formatting](https://github.com/LandrAudio/linting-and-formatting) -   
 - [mongodb-driver-examples](https://github.com/mongolab/mongodb-driver-examples) - A repository of MongoDB examples in several languages.  
 - [envinfo](https://github.com/tabrindle/envinfo) - Generate a report about your development environment for debugging and issue reporting  
 - [brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.  
@@ -546,7 +549,7 @@
 - [web-push](https://github.com/web-push-libs/web-push) - Web Push library for Node.js  
 - [customize-cra](https://github.com/arackaf/customize-cra) - Override webpack configurations for create-react-app 2.0  
 - [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies  
-- [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API  
+- [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API  
 - [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:  
 - [Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server  
 - [json-server-heroku](https://github.com/jesperorb/json-server-heroku) - Deploy json-server to Heroku, now & Azure :up: :free:  
@@ -701,6 +704,7 @@
 - [classification](https://github.com/krishnac7/classification) -   
 
 ## Kotlin
+- [iosched](https://github.com/google/iosched) - The Google I/O 2019 Android App  
 - [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android  
 - [VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required)  
 
@@ -719,6 +723,7 @@
 - [react-native-maps](https://github.com/react-native-community/react-native-maps) - React Native Mapview component for iOS + Android  
 
 ## Others
+- [amazing-android-apps](https://github.com/Mybridge/amazing-android-apps) - Amazing open source Android apps written in Java.  
 - [eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation  
 - [reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview  
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)  
@@ -896,6 +901,7 @@
 - [Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook  
 
 ## TypeScript
+- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native) - ⚛️📺Projects from the “Can it be done in React Native?” YouTube series  
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js  
 - [template](https://github.com/fabiospampinato/template) - A super-simple way to create new projects based on templates.  
 - [newsletter-cli](https://github.com/JustComments/newsletter-cli) - Write newsletters in Markdown and send to many recipients from your machine using AWS SES  
