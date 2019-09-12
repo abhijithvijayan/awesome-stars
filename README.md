@@ -83,6 +83,7 @@
 - [FIcontent.Gaming.Application.TreasureHunt](https://github.com/fi-content2-games-platform/FIcontent.Gaming.Application.TreasureHunt) - The Augmented Reality TreasureHunt game implementing the city-wide scavenger hunt game scenario  
 
 ## C++
+- [oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer  
 - [filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL  
 - [CLRS](https://github.com/gzc/CLRS) - :notebook:Solutions to Introduction to Algorithms  
 - [R2D2-2017](https://github.com/R2D2-2017/R2D2-2017) - The main repository of the R2D2 project of 2017.  
@@ -250,6 +251,8 @@
 - [A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for&#34;A Guide to Running Tensorflow Models on Android&#34; By SIraj Raval on Youtube  
 
 ## JavaScript
+- [use-scroll-position](https://github.com/n8tb1t/use-scroll-position) - Use scroll position ReactJS hook done right  
+- [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –  
 - [js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies  
 - [css-colours-sorted](https://github.com/wesbos/css-colours-sorted) - CSS Colours Sorted By  
 - [react-flippy](https://github.com/sbayd/react-flippy) - Flipping Cards for your React Projects. React-Flippy allows you to create flipper event with your content.  
@@ -287,7 +290,6 @@
 - [keystone-next-example](https://github.com/victor36max/keystone-next-example) - Example app of integrating KeystoneJS & Next.js  
 - [kutt-extension](https://github.com/abhijithvijayan/kutt-extension) - 🔗✂️ Cross-Browser URL Shortener Extension based on Kutt.it  
 - [ava](https://github.com/avajs/ava) - 🚀 JavaScript test runner  
-- [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –  
 - [pickr](https://github.com/Simonwep/pickr) - 🍭 Flat, simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba, hsla, hsva and more!  
 - [search-by-image](https://github.com/dessant/search-by-image) - :framed_picture: Browser extension for reverse image search, available on Chrome, Firefox and Opera  
 - [NoCoin](https://github.com/keraf/NoCoin) - No Coin is a tiny browser extension aiming to block coin miners such as Coinhive.  
