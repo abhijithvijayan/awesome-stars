@@ -150,6 +150,7 @@
 - [docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:  
 
 ## Go
+- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server  
 - [concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go and Elm.  
 - [go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol  
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.  
@@ -251,6 +252,12 @@
 - [A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for&#34;A Guide to Running Tensorflow Models on Android&#34; By SIraj Raval on Youtube  
 
 ## JavaScript
+- [glitch-2.0](https://github.com/abhijithvijayan/glitch-2.0) - Online Quiz Hunt  
+- [prepack](https://github.com/facebook/prepack) - A JavaScript bundle optimizer.  
+- [reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components  
+- [pookalam](https://github.com/devpranoy/pookalam) - pookalam.ai  
+- [react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) - ✨ Infinite scrolling date-picker built with React, with localization, range selection, themes, keyboard support, and more.  
+- [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) - A set of higher-order components to turn any list into an animated, accessible and touch-friendly sortable list✌️  
 - [use-scroll-position](https://github.com/n8tb1t/use-scroll-position) - Use scroll position ReactJS hook done right  
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –  
 - [js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies  
@@ -696,6 +703,7 @@
 - [awesome-spinners](https://github.com/yangshun/awesome-spinners) - 💫 A curated collection of dazzling web spinners  
 
 ## Jupyter Notebook
+- [video_coloriser](https://github.com/devpranoy/video_coloriser) - Pytorch Convolutional Neural Net and GAN based video coloriser that converts black and white video to colorised video.  
 - [nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Natural Language Processing Tutorial for Deep Learning Researchers  
 - [ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos  
 - [cats_and_dogs_image_Classifier](https://github.com/cipher812/cats_and_dogs_image_Classifier) - A Keras image classifier for classifing cats and dogs with 95% accuracy  
@@ -725,6 +733,7 @@
 - [react-native-maps](https://github.com/react-native-community/react-native-maps) - React Native Mapview component for iOS + Android  
 
 ## Others
+- [developer-portfolios](https://github.com/emmawedekind/developer-portfolios) - A list of developer portfolios for your inspiration  
 - [amazing-android-apps](https://github.com/Mybridge/amazing-android-apps) - Amazing open source Android apps written in Java.  
 - [eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation  
 - [reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview  
@@ -877,6 +886,7 @@
 - [prisma](https://github.com/prisma/prisma) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)  
 
 ## Shell
+- [pivpn](https://github.com/pivpn/pivpn) - Simple OpenVPN installer, designed for raspberry pi.  
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements  
 - [qemu-rpi-kernel](https://github.com/dhruvvyas90/qemu-rpi-kernel) - Qemu kernel for emulating Rpi on QEMU  
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash  
@@ -903,6 +913,7 @@
 - [Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook  
 
 ## TypeScript
+- [recyclerlistview](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!  
 - [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native) - ⚛️📺Projects from the “Can it be done in React Native?” YouTube series  
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js  
 - [template](https://github.com/fabiospampinato/template) - A super-simple way to create new projects based on templates.  
