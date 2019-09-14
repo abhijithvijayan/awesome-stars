@@ -150,6 +150,8 @@
 - [docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:  
 
 ## Go
+- [coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins  
+- [AdGuardDNS](https://github.com/AdguardTeam/AdGuardDNS) - Public DNS resolver that protects you from ad trackers  
 - [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server  
 - [concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go and Elm.  
 - [go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol  
@@ -193,6 +195,7 @@
 - [jasper2](https://github.com/jekyller/jasper2) - Full-featured Jekyll port of Ghost's default theme Casper v2 👻  
 
 ## Java
+- [Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) - A VT-100 terminal emulator for the Android OS  
 - [apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!  
 - [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) - This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.  
 - [2048-android](https://github.com/uberspot/2048-android) - The android port of the 2048 game (for offline playing)  
@@ -252,7 +255,8 @@
 - [A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for&#34;A Guide to Running Tensorflow Models on Android&#34; By SIraj Raval on Youtube  
 
 ## JavaScript
-- [glitch-2.0](https://github.com/abhijithvijayan/glitch-2.0) - Online Quiz Hunt  
+- [react-kawaii](https://github.com/miukimiu/react-kawaii) - Cute SVG React Components  
+- [expense-app-frontend](https://github.com/prvnbist/expense-app-frontend) - An Expense Management App made with React, GraphQL, MongoDB etc.  
 - [prepack](https://github.com/facebook/prepack) - A JavaScript bundle optimizer.  
 - [reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components  
 - [pookalam](https://github.com/devpranoy/pookalam) - pookalam.ai  
@@ -799,6 +803,7 @@
 - [Enigma-Simulator](https://github.com/Code-Bullet/Enigma-Simulator) -   
 
 ## Python
+- [AdGuardSDNSFilter](https://github.com/AdguardTeam/AdGuardSDNSFilter) - AdGuard Simplified Domain names filter  
 - [heartrate](https://github.com/alexmojaki/heartrate) - Simple real time visualisation of the execution of a Python program.  
 - [watchgod](https://github.com/samuelcolvin/watchgod) - Simple, modern file watching and code reload in python.  
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.  
@@ -886,6 +891,7 @@
 - [prisma](https://github.com/prisma/prisma) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)  
 
 ## Shell
+- [termux-packages](https://github.com/termux/termux-packages) - Android terminal and Linux environment - packages repository.  
 - [pivpn](https://github.com/pivpn/pivpn) - Simple OpenVPN installer, designed for raspberry pi.  
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements  
 - [qemu-rpi-kernel](https://github.com/dhruvvyas90/qemu-rpi-kernel) - Qemu kernel for emulating Rpi on QEMU  
