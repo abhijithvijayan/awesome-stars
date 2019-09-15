@@ -195,6 +195,7 @@
 - [jasper2](https://github.com/jekyller/jasper2) - Full-featured Jekyll port of Ghost's default theme Casper v2 👻  
 
 ## Java
+- [Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A Reddit client for Android  
 - [Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) - A VT-100 terminal emulator for the Android OS  
 - [apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!  
 - [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) - This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.  
@@ -255,6 +256,7 @@
 - [A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for&#34;A Guide to Running Tensorflow Models on Android&#34; By SIraj Raval on Youtube  
 
 ## JavaScript
+- [fullstackopen-2019.github.io](https://github.com/fullstackopen-2019/fullstackopen-2019.github.io) -   
 - [react-kawaii](https://github.com/miukimiu/react-kawaii) - Cute SVG React Components  
 - [expense-app-frontend](https://github.com/prvnbist/expense-app-frontend) - An Expense Management App made with React, GraphQL, MongoDB etc.  
 - [prepack](https://github.com/facebook/prepack) - A JavaScript bundle optimizer.  
