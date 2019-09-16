@@ -256,6 +256,11 @@
 - [A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for&#34;A Guide to Running Tensorflow Models on Android&#34; By SIraj Raval on Youtube  
 
 ## JavaScript
+- [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:  
+- [lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/  
+- [scrollreveal](https://github.com/scrollreveal/scrollreveal) - Animate elements as they scroll into view.  
+- [GreenSock-JS](https://github.com/greensock/GreenSock-JS) - GreenSock's GSAP JavaScript animation library (including Draggable).  
+- [mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web  
 - [fullstackopen-2019.github.io](https://github.com/fullstackopen-2019/fullstackopen-2019.github.io) -   
 - [react-kawaii](https://github.com/miukimiu/react-kawaii) - Cute SVG React Components  
 - [expense-app-frontend](https://github.com/prvnbist/expense-app-frontend) - An Expense Management App made with React, GraphQL, MongoDB etc.  
@@ -618,7 +623,6 @@
 - [FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation  
 - [tilt.js](https://github.com/gijsroge/tilt.js) - A tiny 60+fps parallax tilt hover effect for jQuery.  
 - [filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library  
-- [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:  
 - [not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away  
 - [Scrollify](https://github.com/lukehaas/Scrollify) - A jQuery plugin that assists scrolling and snaps to sections.  
 - [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles  
@@ -710,6 +714,7 @@
 
 ## Jupyter Notebook
 - [video_coloriser](https://github.com/devpranoy/video_coloriser) - Pytorch Convolutional Neural Net and GAN based video coloriser that converts black and white video to colorised video.  
+- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time  
 - [nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Natural Language Processing Tutorial for Deep Learning Researchers  
 - [ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos  
 - [cats_and_dogs_image_Classifier](https://github.com/cipher812/cats_and_dogs_image_Classifier) - A Keras image classifier for classifing cats and dogs with 95% accuracy  
@@ -739,6 +744,7 @@
 - [react-native-maps](https://github.com/react-native-community/react-native-maps) - React Native Mapview component for iOS + Android  
 
 ## Others
+- [app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.  
 - [developer-portfolios](https://github.com/emmawedekind/developer-portfolios) - A list of developer portfolios for your inspiration  
 - [amazing-android-apps](https://github.com/Mybridge/amazing-android-apps) - Amazing open source Android apps written in Java.  
 - [eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation  
@@ -810,7 +816,6 @@
 - [watchgod](https://github.com/samuelcolvin/watchgod) - Simple, modern file watching and code reload in python.  
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.  
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.  
-- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time  
 - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).  
 - [rpi-gps](https://github.com/initialstate/rpi-gps) - Raspberry Pi GPS Tracker  
 - [Raspberry-Pi-Gas-Sensor-MQ](https://github.com/tutRPi/Raspberry-Pi-Gas-Sensor-MQ) - Raspberry Pi Library for several MQ Gas Sensors (MQ-2, MQ-3, etc.)  
