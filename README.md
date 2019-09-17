@@ -256,6 +256,8 @@
 - [A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for&#34;A Guide to Running Tensorflow Models on Android&#34; By SIraj Raval on Youtube  
 
 ## JavaScript
+- [telegraf](https://github.com/telegraf/telegraf) - 📡Modern Telegram Bot Framework for Node.js  
+- [postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins  
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:  
 - [lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/  
 - [scrollreveal](https://github.com/scrollreveal/scrollreveal) - Animate elements as they scroll into view.  
@@ -288,7 +290,7 @@
 - [http-errors](https://github.com/jshttp/http-errors) - Create HTTP Errors  
 - [redux-search](https://github.com/bvaughn/redux-search) - Redux bindings for client-side search  
 - [abhijithvijayan.in](https://github.com/abhijithvijayan/abhijithvijayan.in) - Source code for my personal website build with Next.js  
-- [instagram-api](https://github.com/Tanuj69/instagram-api) - Instagram API for public profiles.  
+- [instagram-api](https://github.com/tanuj101/instagram-api) - Instagram API for public profiles.  
 - [react-native-elements](https://github.com/react-native-training/react-native-elements) - Cross Platform React Native UI Toolkit  
 - [react-vis](https://github.com/uber/react-vis) - Data Visualization Components  
 - [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL  
@@ -811,6 +813,7 @@
 - [Enigma-Simulator](https://github.com/Code-Bullet/Enigma-Simulator) -   
 
 ## Python
+- [ktu-notification-bot](https://github.com/tupio/ktu-notification-bot) - A simple python script that fetch new notifications from https://ktu.edu.in/eu/core/announcements.htm and forwards into this Telegram Channel https://t.me/KTU_RC/ .  
 - [AdGuardSDNSFilter](https://github.com/AdguardTeam/AdGuardSDNSFilter) - AdGuard Simplified Domain names filter  
 - [heartrate](https://github.com/alexmojaki/heartrate) - Simple real time visualisation of the execution of a Python program.  
 - [watchgod](https://github.com/samuelcolvin/watchgod) - Simple, modern file watching and code reload in python.  
@@ -835,7 +838,6 @@
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python  
 - [subtitle-downloader](https://github.com/manojmj92/subtitle-downloader) - Python script to automatically download subtitles for any movie/tv series episode.  
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse  
-- [ktu-notification-bot](https://github.com/tupio/ktu-notification-bot) - A simple python script that fetch new notifications from https://ktu.edu.in/eu/core/announcements.htm and forwards into this Telegram Channel https://t.me/KTU_RC/ .  
 - [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.  
 - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.  
 - [popper](https://github.com/systemslab/popper) - Github actions runner in Python (HCL syntax)  
@@ -926,6 +928,7 @@
 - [Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook  
 
 ## TypeScript
+- [action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.  
 - [recyclerlistview](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!  
 - [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native) - ⚛️📺Projects from the “Can it be done in React Native?” YouTube series  
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js  
