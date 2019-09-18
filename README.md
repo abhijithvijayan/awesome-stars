@@ -46,6 +46,7 @@
 - [Unified-Hosts-AutoUpdate](https://github.com/ScriptTiger/Unified-Hosts-AutoUpdate) - Quickly and easily install, uninstall, and set up automatic updates for any of Steven Black's unified hosts files.  
 
 ## C
+- [doh](https://github.com/curl/doh) - stand-alone application for DoH (DNS-over-HTTPS) name resolves and lookups  
 - [rtlwifi_new](https://github.com/lwfinger/rtlwifi_new) - A repo for the newest Realtek rtlwifi codes.  
 - [sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user  
 - [kernel_common](https://github.com/aosp-mirror/kernel_common) -   
@@ -176,7 +177,6 @@
 - [geolocationapi](https://github.com/apilayer/geolocationapi) - IP Geolocation API is a free service for locating your visitors in real-time with detailed country information.  
 - [cea.ac.in](https://github.com/ceadoor/cea.ac.in) - 🚀⛏Website for College of Engineering Adoor  
 - [github-cards](https://github.com/lepture/github-cards) - The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories.  
-- [ionicons](https://github.com/ionic-team/ionicons) - The premium icon font for Ionic Framework and web apps everywhere  
 - [polymer](https://github.com/Polymer/polymer) - Our original Web Component library.  
 - [personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.  
 - [isotope](https://github.com/metafizzy/isotope) - :revolving_hearts: Filter & sort magical layouts  
@@ -716,7 +716,6 @@
 
 ## Jupyter Notebook
 - [video_coloriser](https://github.com/devpranoy/video_coloriser) - Pytorch Convolutional Neural Net and GAN based video coloriser that converts black and white video to colorised video.  
-- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time  
 - [nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Natural Language Processing Tutorial for Deep Learning Researchers  
 - [ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos  
 - [cats_and_dogs_image_Classifier](https://github.com/cipher812/cats_and_dogs_image_Classifier) - A Keras image classifier for classifing cats and dogs with 95% accuracy  
@@ -819,6 +818,7 @@
 - [watchgod](https://github.com/samuelcolvin/watchgod) - Simple, modern file watching and code reload in python.  
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.  
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.  
+- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time  
 - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).  
 - [rpi-gps](https://github.com/initialstate/rpi-gps) - Raspberry Pi GPS Tracker  
 - [Raspberry-Pi-Gas-Sensor-MQ](https://github.com/tutRPi/Raspberry-Pi-Gas-Sensor-MQ) - Raspberry Pi Library for several MQ Gas Sensors (MQ-2, MQ-3, etc.)  
@@ -963,6 +963,7 @@
 - [run-in-terminal](https://github.com/microsoft/run-in-terminal) -   
 - [danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying &#34;you forgot to …&#34; in code review  
 - [cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.  
+- [ionicons](https://github.com/ionic-team/ionicons) - The premium icon font for Ionic Framework and web apps everywhere  
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.  
 - [devhub](https://github.com/devhubapp/devhub) - GitHub Notifications Manager & Activity Watcher - Web, Mobile & Desktop  
 - [oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built with 💜 by Heroku.  
