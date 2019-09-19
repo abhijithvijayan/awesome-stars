@@ -33,7 +33,6 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Swift](#swift)
-- [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -256,6 +255,9 @@
 - [A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for&#34;A Guide to Running Tensorflow Models on Android&#34; By SIraj Raval on Youtube  
 
 ## JavaScript
+- [automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.  
+- [fallback-image](https://github.com/Binance-Academy/fallback-image) - Display a fallback while an image is loading  
+- [rehype-react](https://github.com/rehypejs/rehype-react) - plugin to transform to React  
 - [telegraf](https://github.com/telegraf/telegraf) - 📡Modern Telegram Bot Framework for Node.js  
 - [postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins  
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:  
@@ -756,6 +758,7 @@
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub  
 - [intro-to-bash](https://github.com/codenameyau/intro-to-bash) - Intro to bash with real-world examples and command-line tips  
 - [awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub.  
+- [Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook  
 - [ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板  
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources  
 - [logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos  
@@ -882,6 +885,7 @@
 - [Smart-Security-Camera](https://github.com/HackerShackOfficial/Smart-Security-Camera) - IoT security camera running open-cv for object detection 📹  
 
 ## Ruby
+- [illacceptanything](https://github.com/illacceptanything/illacceptanything) - The project where literally anything* goes.  
 - [linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!  
 - [dev.to](https://github.com/thepracticaldev/dev.to) - Where programmers share ideas and help each other grow  
 - [colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:  
@@ -923,9 +927,6 @@
 
 ## Swift
 - [MacAssistant](https://github.com/vanshg/MacAssistant) - Google Assistant for macOS!  
-
-## TeX
-- [Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook  
 
 ## TypeScript
 - [action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.  
