@@ -220,7 +220,7 @@
 - [react-native-video](https://github.com/react-native-community/react-native-video) - A &lt;Video /&gt; component for react-native  
 - [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native  
 - [react-native-youtube](https://github.com/inProgress-team/react-native-youtube) - A &lt;YouTube/&gt; component for React Native.  
-- [camera](https://github.com/android/camera) - Multiple samples showing the best practices in camera APIs on Android.  
+- [camera-samples](https://github.com/android/camera-samples) - Multiple samples showing the best practices in camera APIs on Android.  
 - [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages (chat https://gitter.im/AnySoftKeyboard)  
 - [Android](https://github.com/hmkcode/Android) - Android related examples  
 - [processing](https://github.com/processing/processing) - Source code for the Processing Core and Development Environment (PDE)  
@@ -747,6 +747,7 @@
 - [react-native-maps](https://github.com/react-native-community/react-native-maps) - React Native Mapview component for iOS + Android  
 
 ## Others
+- [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.  
 - [app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.  
 - [developer-portfolios](https://github.com/emmawedekind/developer-portfolios) - A list of developer portfolios for your inspiration  
 - [amazing-android-apps](https://github.com/Mybridge/amazing-android-apps) - Amazing open source Android apps written in Java.  
@@ -904,6 +905,7 @@
 - [prisma](https://github.com/prisma/prisma) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)  
 
 ## Shell
+- [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.  
 - [termux-packages](https://github.com/termux/termux-packages) - Android terminal and Linux environment - packages repository.  
 - [pivpn](https://github.com/pivpn/pivpn) - Simple OpenVPN installer, designed for raspberry pi.  
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements  
@@ -929,6 +931,7 @@
 - [MacAssistant](https://github.com/vanshg/MacAssistant) - Google Assistant for macOS!  
 
 ## TypeScript
+- [motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React  
 - [action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.  
 - [recyclerlistview](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!  
 - [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native) - ⚛️📺Projects from the “Can it be done in React Native?” YouTube series  
