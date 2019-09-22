@@ -109,6 +109,7 @@
 - [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone  
 
 ## CSS
+- [2019](https://github.com/Make-a-Ton/2019) - This repository contains all the projects done during Make-a-Ton 2.0  
 - [saving-card-after-payment](https://github.com/stripe-samples/saving-card-after-payment) - Learn how to save a card for later reuse after making a payment  
 - [RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system  
 - [rfs](https://github.com/twbs/rfs) - 📐 Automate your responsive workflow  
@@ -144,6 +145,7 @@
 - [zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation  
 
 ## Dart
+- [bro-code](https://github.com/ashikmeerankutty/bro-code) -   
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.  
 
 ## Dockerfile
@@ -931,6 +933,7 @@
 - [MacAssistant](https://github.com/vanshg/MacAssistant) - Google Assistant for macOS!  
 
 ## TypeScript
+- [graphql-playground](https://github.com/prisma/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)  
 - [motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React  
 - [action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.  
 - [recyclerlistview](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!  
