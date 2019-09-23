@@ -257,6 +257,7 @@
 - [A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for&#34;A Guide to Running Tensorflow Models on Android&#34; By SIraj Raval on Youtube  
 
 ## JavaScript
+- [yup](https://github.com/jquense/yup) - Dead simple Object schema validation  
 - [automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.  
 - [fallback-image](https://github.com/Binance-Academy/fallback-image) - Display a fallback while an image is loading  
 - [rehype-react](https://github.com/rehypejs/rehype-react) - plugin to transform to React  
@@ -586,7 +587,7 @@
 - [react-image](https://github.com/mbrevda/react-image) - React.js &lt;img&gt; tag rendering with multiple fallback & loader support  
 - [redux-form](https://github.com/erikras/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store  
 - [redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) - Redux DevTools extension.  
-- [bit](https://github.com/teambit/bit) - Easily share code between projects with your team.  
+- [bit](https://github.com/teambit/bit) - A tool for developing, distributing and collaborating over reusbale components. Easily share code across projects as a team.  
 - [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.  
 - [overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.  
 - [rematch](https://github.com/rematch/rematch) - A Redux Framework  
@@ -907,6 +908,7 @@
 - [prisma](https://github.com/prisma/prisma) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)  
 
 ## Shell
+- [awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks  
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.  
 - [termux-packages](https://github.com/termux/termux-packages) - Android terminal and Linux environment - packages repository.  
 - [pivpn](https://github.com/pivpn/pivpn) - Simple OpenVPN installer, designed for raspberry pi.  
