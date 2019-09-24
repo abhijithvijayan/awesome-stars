@@ -257,6 +257,9 @@
 - [A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for&#34;A Guide to Running Tensorflow Models on Android&#34; By SIraj Raval on Youtube  
 
 ## JavaScript
+- [remix](https://github.com/ethereum/remix) - Ethereum IDE and tools for the web  
+- [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash  
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️Simple, Modular & Accessible UI Components for your React Applications  
 - [yup](https://github.com/jquense/yup) - Dead simple Object schema validation  
 - [automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.  
 - [fallback-image](https://github.com/Binance-Academy/fallback-image) - Display a fallback while an image is loading  
@@ -908,6 +911,7 @@
 - [prisma](https://github.com/prisma/prisma) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)  
 
 ## Shell
+- [local-cert-generator](https://github.com/dakshshah96/local-cert-generator) - 🚀 A set of scripts to quickly generate a HTTPS certificate for your local development environment.  
 - [awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks  
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.  
 - [termux-packages](https://github.com/termux/termux-packages) - Android terminal and Linux environment - packages repository.  
@@ -935,7 +939,8 @@
 - [MacAssistant](https://github.com/vanshg/MacAssistant) - Google Assistant for macOS!  
 
 ## TypeScript
-- [graphql-playground](https://github.com/prisma/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)  
+- [react-chaos](https://github.com/jchiatt/react-chaos) - Chaos Engineering for your React apps.  
+- [graphql-playground](https://github.com/prisma-labs/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)  
 - [motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React  
 - [action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.  
 - [recyclerlistview](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!  
@@ -961,7 +966,7 @@
 - [react-ripples](https://github.com/rwu823/react-ripples) - :swimmer: Material ripple effect. Ripples everything  
 - [quilt](https://github.com/Shopify/quilt) - A loosely related set of packages for JavaScript / TypeScript projects at Shopify  
 - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - A configurable Mobile UI  
-- [graphql-yoga](https://github.com/prisma/graphql-yoga) - 🧘 Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience  
+- [graphql-yoga](https://github.com/prisma-labs/graphql-yoga) - 🧘 Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience  
 - [browser-addon](https://github.com/kee-org/browser-addon) - Kee adds free, secure and easy password management features to your browser which save time and keep your private data more secure.  
 - [react-adopt](https://github.com/pedronauck/react-adopt) - :sunglasses: Compose render props components like a pro  
 - [next-redux-wrapper](https://github.com/kirill-konshin/next-redux-wrapper) - Redux wrapper for Next.js  
