@@ -258,6 +258,7 @@
 - [A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for&#34;A Guide to Running Tensorflow Models on Android&#34; By SIraj Raval on Youtube  
 
 ## JavaScript
+- [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework  
 - [eslint-template-visitor](https://github.com/futpib/eslint-template-visitor) - Simplify eslint rules by visiting templates  
 - [remix](https://github.com/ethereum/remix) - Ethereum IDE and tools for the web  
 - [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash  
