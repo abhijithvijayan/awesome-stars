@@ -6,8 +6,8 @@
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
 - [C](#c)
-- [C#](#c#)
-- [C++](#c++)
+- [C#](#c-1)
+- [C++](#c-2)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
@@ -23,7 +23,7 @@
 - [Makefile](#makefile)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
-- [Objective-C++](#objective-c++)
+- [Objective-C++](#objective-c-1)
 - [Others](#others)
 - [PHP](#php)
 - [PowerShell](#powershell)
@@ -946,6 +946,7 @@
 - [MacAssistant](https://github.com/vanshg/MacAssistant) - Google Assistant for macOS!  
 
 ## TypeScript
+- [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js  
 - [react-chaos](https://github.com/jchiatt/react-chaos) - Chaos Engineering for your React apps.  
 - [graphql-playground](https://github.com/prisma-labs/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)  
 - [motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React  
