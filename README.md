@@ -188,7 +188,7 @@
 - [design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.  
 - [infinite-scroll](https://github.com/metafizzy/infinite-scroll) - 📜 Automatically add next page  
 - [foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.  
-- [speedtest](https://github.com/adolfintel/speedtest) - Self-hosted HTML5 Speedtest. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more  
+- [speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more  
 - [electron-instaPy-GUI](https://github.com/ahmadudin/electron-instaPy-GUI) - Graphic user interface for https://github.com/timgrossmann/InstaPy  
 - [startbootstrap-simple-sidebar](https://github.com/BlackrockDigital/startbootstrap-simple-sidebar) - An off canvas sidebar navigation Bootstrap HTML template created by Start Bootstrap  
 - [itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites  
@@ -258,6 +258,7 @@
 - [A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for&#34;A Guide to Running Tensorflow Models on Android&#34; By SIraj Raval on Youtube  
 
 ## JavaScript
+- [jsonata](https://github.com/jsonata-js/jsonata) - JSONata query and transformation language - http://jsonata.org  
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework  
 - [eslint-template-visitor](https://github.com/futpib/eslint-template-visitor) - Simplify eslint rules by visiting templates  
 - [remix](https://github.com/ethereum/remix) - Ethereum IDE and tools for the web  
@@ -362,7 +363,7 @@
 - [feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript  
 - [react-native-loader](https://github.com/mohebifar/react-native-loader) - A collection of animated spinners for React Native  
 - [grafgiti](https://github.com/mohebifar/grafgiti) - Vandalize your github contributions wall.  
-- [lebab](https://github.com/lebab/lebab) - Turn your ES5 code into readable ES6. It does the opposite of what Babel does.  
+- [lebab](https://github.com/lebab/lebab) - Turn your ES5 code into readable ES6. Lebab does the opposite of what Babel does.  
 - [connected-react-router](https://github.com/supasate/connected-react-router) - A Redux binding for React Router v4  
 - [racket](https://github.com/mohebifar/racket) - A complete starting app for developing universal React/Redux web apps with generators, best practices and more  
 - [styled-media-query](https://github.com/morajabi/styled-media-query) - 💅💍  Better media queries for styled-component  
