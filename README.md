@@ -46,6 +46,7 @@
 - [Unified-Hosts-AutoUpdate](https://github.com/ScriptTiger/Unified-Hosts-AutoUpdate) - Quickly and easily install, uninstall, and set up automatic updates for any of Steven Black's unified hosts files.  
 
 ## C
+- [stellar-core](https://github.com/stellar/stellar-core) - stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network. Optionally, stellar-core can store historical records of the ledger and participate in consensus.  
 - [doh](https://github.com/curl/doh) - stand-alone application for DoH (DNS-over-HTTPS) name resolves and lookups  
 - [rtlwifi_new](https://github.com/lwfinger/rtlwifi_new) - A repo for the newest Realtek rtlwifi codes.  
 - [sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user  
@@ -258,6 +259,7 @@
 - [A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for&#34;A Guide to Running Tensorflow Models on Android&#34; By SIraj Raval on Youtube  
 
 ## JavaScript
+- [dot-object](https://github.com/rhalff/dot-object) - Transform json objects using dot notation  
 - [jsonata](https://github.com/jsonata-js/jsonata) - JSONata query and transformation language - http://jsonata.org  
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework  
 - [eslint-template-visitor](https://github.com/futpib/eslint-template-visitor) - Simplify eslint rules by visiting templates  
