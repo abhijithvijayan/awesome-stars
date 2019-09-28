@@ -85,6 +85,7 @@
 - [FIcontent.Gaming.Application.TreasureHunt](https://github.com/fi-content2-games-platform/FIcontent.Gaming.Application.TreasureHunt) - The Augmented Reality TreasureHunt game implementing the city-wide scavenger hunt game scenario  
 
 ## C++
+- [engine](https://github.com/flutter/engine) - The Flutter engine  
 - [oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer  
 - [filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL  
 - [CLRS](https://github.com/gzc/CLRS) - :notebook:Solutions to Introduction to Algorithms  
@@ -144,11 +145,13 @@
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:  
 
 ## CoffeeScript
+- [mongofb](https://github.com/lessthan3/mongofb) - MongoFirebase - MongoDB + Firebase security/updates  
 - [zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation  
 
 ## Dart
-- [bro-code](https://github.com/ashikmeerankutty/bro-code) -   
+- [plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team  
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.  
+- [bro-code](https://github.com/ashikmeerankutty/bro-code) -   
 
 ## Dockerfile
 - [docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:  
@@ -259,6 +262,8 @@
 - [A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for&#34;A Guide to Running Tensorflow Models on Android&#34; By SIraj Raval on Youtube  
 
 ## JavaScript
+- [abhijithvijayan.in](https://github.com/abhijithvijayan/abhijithvijayan.in) - Source code for my personal website build with Next.js  
+- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.  
 - [dot-object](https://github.com/rhalff/dot-object) - Transform json objects using dot notation  
 - [jsonata](https://github.com/jsonata-js/jsonata) - JSONata query and transformation language - http://jsonata.org  
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework  
@@ -303,7 +308,6 @@
 - [yarn](https://github.com/yarnpkg/yarn) - 📦🐈 Fast, reliable, and secure dependency management.  
 - [http-errors](https://github.com/jshttp/http-errors) - Create HTTP Errors  
 - [redux-search](https://github.com/bvaughn/redux-search) - Redux bindings for client-side search  
-- [abhijithvijayan.in](https://github.com/abhijithvijayan/abhijithvijayan.in) - Source code for my personal website build with Next.js  
 - [instagram-api](https://github.com/tanuj101/instagram-api) - Instagram API for public profiles.  
 - [react-native-elements](https://github.com/react-native-training/react-native-elements) - Cross Platform React Native UI Toolkit  
 - [react-vis](https://github.com/uber/react-vis) - Data Visualization Components  
@@ -762,6 +766,7 @@
 - [sky](https://github.com/evanw/sky) - A text editor written in the Skew programming language  
 
 ## Others
+- [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - Cheatsheets for experienced React developers getting started with TypeScript  
 - [logux](https://github.com/logux/logux) - Replace AJAX-REST by Redux actions synchronization between client and server  
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.  
 - [app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.  
@@ -832,6 +837,7 @@
 - [Enigma-Simulator](https://github.com/Code-Bullet/Enigma-Simulator) -   
 
 ## Python
+- [ipwndfu](https://github.com/axi0mX/ipwndfu) - open-source jailbreaking tool for many iOS devices  
 - [ktu-notification-bot](https://github.com/tupio/ktu-notification-bot) - A simple python script that fetch new notifications from https://ktu.edu.in/eu/core/announcements.htm and forwards into this Telegram Channel https://t.me/KTU_RC/ .  
 - [AdGuardSDNSFilter](https://github.com/AdguardTeam/AdGuardSDNSFilter) - AdGuard Simplified Domain names filter  
 - [heartrate](https://github.com/alexmojaki/heartrate) - Simple real time visualisation of the execution of a Python program.  
