@@ -175,6 +175,7 @@
 - [hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools is a utility that disables a number of risky Windows features.  
 
 ## HTML
+- [dart-pad](https://github.com/dart-lang/dart-pad) - The UI client for a web based interactive Dart service  
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser  
 - [kinetic](https://github.com/ariya/kinetic) - Kinetic Scrolling with JavaScript  
 - [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.  
@@ -262,7 +263,9 @@
 - [A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for&#34;A Guide to Running Tensorflow Models on Android&#34; By SIraj Raval on Youtube  
 
 ## JavaScript
-- [abhijithvijayan.in](https://github.com/abhijithvijayan/abhijithvijayan.in) - Source code for my personal website build with Next.js  
+- [figures](https://github.com/sindresorhus/figures) - Unicode symbols with Windows CMD fallbacks  
+- [csswand](https://github.com/oliver-gomes/csswand) - 🎨✨ Hover your wand and use your magic spell to copy beautiful css  
+- [hacktoberfest-website-2019](https://github.com/ceadoor/hacktoberfest-website-2019) - Website for Hacktoberfest event of 2019  
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.  
 - [dot-object](https://github.com/rhalff/dot-object) - Transform json objects using dot notation  
 - [jsonata](https://github.com/jsonata-js/jsonata) - JSONata query and transformation language - http://jsonata.org  
@@ -344,7 +347,7 @@
 - [react-transition-group](https://github.com/reactjs/react-transition-group) - An easy way to perform animations when a React component enters or leaves the DOM  
 - [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine  
 - [dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) - Data Structures and Algorithms explained and implemented in JavaScript  
-- [iptv](https://github.com/freearhey/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world  
+- [iptv](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world  
 - [bird-box](https://github.com/matchai/bird-box) - 🐦💬 Update a gist to contain your latest tweet  
 - [showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript  
 - [react-devtools-tutorial](https://github.com/bvaughn/react-devtools-tutorial) - Interactive tutorial featuring the React DevTools v4  
@@ -432,7 +435,7 @@
 - [fast-srp](https://github.com/zarmack/fast-srp) - Pure NodeJS SRP implementation  
 - [jsencrypt](https://github.com/travist/jsencrypt) - A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.  
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅  
-- [v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby  
+- [v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website  
 - [spearmint](https://github.com/spearmintjs/spearmint) - A simpler way to write React tests - zero coding required  
 - [fast-sha256-js](https://github.com/dchest/fast-sha256-js) - SHA-256, HMAC and PBKDF2 implementation for JavaScript/TypeScript with typed arrays for modern browsers and Node.js  
 - [jscu](https://github.com/junkurihara/jscu) - JavaScript cryptographic utilities for crypto-suite compatibility including PEM/X509/JWK converter.  
@@ -927,6 +930,7 @@
 - [prisma](https://github.com/prisma/prisma) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)  
 
 ## Shell
+- [OpenVPN-Pihole](https://github.com/digitalocean/OpenVPN-Pihole) - https://marketplace.digitalocean.com/apps/openvpn-pihole  
 - [local-cert-generator](https://github.com/dakshshah96/local-cert-generator) - 🚀 A set of scripts to quickly generate a HTTPS certificate for your local development environment.  
 - [awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks  
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.  
