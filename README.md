@@ -129,7 +129,7 @@
 | 22 |  [shotcut](https://github.com/mltframework/shotcut) | cross-platform (Qt), open-source (GPLv3) video editor | mltframework | 2543 |
 | 23 |  [xbmc](https://github.com/xbmc/xbmc) | Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it&#39;s available for Android, BSD, Linux, macOS, iOS and Windows. | xbmc | 9716 |
 | 24 |  [apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) | Open-source, cross platform Qt based IDE for reverse-engineering Android application packages. | vaibhavpandeyvpz | 1403 |
-| 25 |  [tensorflow](https://github.com/tensorflow/tensorflow) | An Open Source Machine Learning Framework for Everyone | tensorflow | 136506 |
+| 25 |  [tensorflow](https://github.com/tensorflow/tensorflow) | An Open Source Machine Learning Framework for Everyone | tensorflow | 136507 |
 
 ## CSS
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -146,7 +146,7 @@
 | 10 |  [2048](https://github.com/gabrielecirulli/2048) | A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024) | gabrielecirulli | 10240 |
 | 11 |  [alltomp3-app](https://github.com/AllToMP3/alltomp3-app) | Download and Convert YouTube, SoundCloud &amp; Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥) | AllToMP3 | 522 |
 | 12 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, &amp; patcher. 3,600+ icons, 40+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more | ryanoasis | 17416 |
-| 13 |  [Mojave-gtk-theme](https://github.com/vinceliuice/Mojave-gtk-theme) | Mojave is a macos Mojave like theme for GTK 3, GTK 2 and Gnome-Shell | vinceliuice | 429 |
+| 13 |  [Mojave-gtk-theme](https://github.com/vinceliuice/Mojave-gtk-theme) | Mojave is a macos Mojave like theme for GTK 3, GTK 2 and Gnome-Shell | vinceliuice | 430 |
 | 14 |  [water.css](https://github.com/kognise/water.css) | A just-add-css collection of styles to make simple websites just a little nicer | kognise | 4247 |
 | 15 |  [frontend-webpack-boilerplate](https://github.com/WeAreAthlon/frontend-webpack-boilerplate) | Webpack based boilerplate with SASS and babel ES6/7 support. | WeAreAthlon | 73 |
 | 16 |  [animate.css](https://github.com/daneden/animate.css) | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | daneden | 62757 |
@@ -221,7 +221,7 @@
 | 1 |  [react-typical](https://github.com/catalinmiron/react-typical) | React Animated typing in ~400 bytes 🐡 of JavaScript. | catalinmiron | 275 |
 | 2 |  [d3-book](https://github.com/alignedleft/d3-book) | Code examples for “Interactive Data Visualization for the Web” | alignedleft | 1984 |
 | 3 |  [go-for-javascript-developers](https://github.com/pazams/go-for-javascript-developers) | A comparison between Go and Javascript | pazams | 787 |
-| 4 |  [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | ripienaar | 26641 |
+| 4 |  [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | ripienaar | 26642 |
 | 5 |  [parcel-sass-bootstrap-boilerplate](https://github.com/abhijithvijayan/parcel-sass-bootstrap-boilerplate) | ⏰📌 Boilerplate with Parcel.js, Sass, Babel &amp; Bootstrap | abhijithvijayan | 7 |
 | 6 |  [dart-pad](https://github.com/dart-lang/dart-pad) | The UI client for a web based interactive Dart service | dart-lang | 301 |
 | 7 |  [phantomjs](https://github.com/ariya/phantomjs) | Scriptable Headless Browser | ariya | 27093 |
@@ -352,7 +352,7 @@
 | 41 |  [relative-time-format](https://github.com/catamphetamine/relative-time-format) | A convenient `Intl.RelativeTimeFormat` polyfill | catamphetamine | 40 |
 | 42 |  [realworld](https://github.com/gothinkster/realworld) | &#34;The mother of all demo apps&#34; — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | gothinkster | 32995 |
 | 43 |  [node-heapdump](https://github.com/bnoordhuis/node-heapdump) | Make a dump of the V8 heap for later inspection. | bnoordhuis | 1887 |
-| 44 |  [fabric.js](https://github.com/fabricjs/fabric.js) | Javascript Canvas Library, SVG-to-Canvas (&amp; canvas-to-SVG) Parser | fabricjs | 13856 |
+| 44 |  [fabric.js](https://github.com/fabricjs/fabric.js) | Javascript Canvas Library, SVG-to-Canvas (&amp; canvas-to-SVG) Parser | fabricjs | 13857 |
 | 45 |  [rest-api-nodejs-mongodb](https://github.com/maitraysuthar/rest-api-nodejs-mongodb) | A boilerplate for REST API Development with  Node.js, Express, and MongoDB | maitraysuthar | 189 |
 | 46 |  [tinydate](https://github.com/lukeed/tinydate) | A tiny (349B) reusable date formatter. Extremely fast! | lukeed | 809 |
 | 47 |  [discord.js](https://github.com/discordjs/discord.js) | A powerful JavaScript library for interacting with the Discord API | discordjs | 4583 |
@@ -390,14 +390,14 @@
 | 79 |  [zuck.js](https://github.com/ramon82/zuck.js) | A javascript library that lets you add stories EVERYWHERE. | ramon82 | 2832 |
 | 80 |  [figures](https://github.com/sindresorhus/figures) | Unicode symbols with Windows CMD fallbacks | sindresorhus | 371 |
 | 81 |  [csswand](https://github.com/oliver-gomes/csswand) | 🎨✨ Hover your wand and use your magic spell to copy beautiful css | oliver-gomes | 860 |
-| 82 |  [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) | A professional front-end template for building fast, robust, and adaptable web apps or sites. | h5bp | 43549 |
+| 82 |  [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) | A professional front-end template for building fast, robust, and adaptable web apps or sites. | h5bp | 43550 |
 | 83 |  [dot-object](https://github.com/rhalff/dot-object) | Transform json objects using dot notation | rhalff | 261 |
 | 84 |  [jsonata](https://github.com/jsonata-js/jsonata) | JSONata query and transformation language - http://jsonata.org | jsonata-js | 628 |
 | 85 |  [reveal.js](https://github.com/hakimel/reveal.js) | The HTML Presentation Framework | hakimel | 48928 |
 | 86 |  [eslint-template-visitor](https://github.com/futpib/eslint-template-visitor) | Simplify eslint rules by visiting templates | futpib | 14 |
 | 87 |  [remix](https://github.com/ethereum/remix) | Ethereum IDE and tools for the web | ethereum | 850 |
 | 88 |  [trash-cli](https://github.com/sindresorhus/trash-cli) | Move files and folders to the trash | sindresorhus | 641 |
-| 89 |  [chakra-ui](https://github.com/chakra-ui/chakra-ui) | ⚡️Simple, Modular &amp; Accessible UI Components for your React Applications | chakra-ui | 2419 |
+| 89 |  [chakra-ui](https://github.com/chakra-ui/chakra-ui) | ⚡️Simple, Modular &amp; Accessible UI Components for your React Applications | chakra-ui | 2420 |
 | 90 |  [yup](https://github.com/jquense/yup) | Dead simple Object schema validation | jquense | 7100 |
 | 91 |  [automerge](https://github.com/automerge/automerge) | A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically. | automerge | 7077 |
 | 92 |  [fallback-image](https://github.com/Binance-Academy/fallback-image) | Display a fallback while an image is loading | Binance-Academy | 6 |
@@ -435,7 +435,7 @@
 | 124 |  [http-errors](https://github.com/jshttp/http-errors) | Create HTTP Errors | jshttp | 773 |
 | 125 |  [redux-search](https://github.com/bvaughn/redux-search) | Redux bindings for client-side search | bvaughn | 1321 |
 | 126 |  [instagram-api](https://github.com/tanuj101/instagram-api) | Instagram API for public profiles. | tanuj101 | 12 |
-| 127 |  [react-vis](https://github.com/uber/react-vis) | Data Visualization Components | uber | 6404 |
+| 127 |  [react-vis](https://github.com/uber/react-vis) | Data Visualization Components | uber | 6405 |
 | 128 |  [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) | Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL | mapbox | 5250 |
 | 129 |  [tippyjs](https://github.com/atomiks/tippyjs) | Highly customizable tooltip and popover library | atomiks | 6581 |
 | 130 |  [spicetify-cli](https://github.com/khanhas/spicetify-cli) | Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux. | khanhas | 1740 |
@@ -683,7 +683,7 @@
 | 372 |  [NativeBase](https://github.com/GeekyAnts/NativeBase) | Essential cross-platform UI components for React Native | GeekyAnts | 12894 |
 | 373 |  [react-native-sass-transformer](https://github.com/kristerkari/react-native-sass-transformer) | Use Sass to style your React Native apps. | kristerkari | 65 |
 | 374 |  [gatsby-starter-hello-world](https://github.com/gatsbyjs/gatsby-starter-hello-world) | Starter with the bare essentials needed for a Gatsby site | gatsbyjs | 270 |
-| 375 |  [strapi](https://github.com/strapi/strapi) | 🚀 Open source Node.js Headless CMS to easily build customisable APIs | strapi | 18779 |
+| 375 |  [strapi](https://github.com/strapi/strapi) | 🚀 Open source Node.js Headless CMS to easily build customisable APIs | strapi | 18780 |
 | 376 |  [generator-express-no-stress](https://github.com/cdimascio/generator-express-no-stress) | 🚂 A Yeoman generator for Express.js based 12-factor apps and apis | cdimascio | 424 |
 | 377 |  [node_redis](https://github.com/NodeRedis/node_redis) | redis client for node | NodeRedis | 11937 |
 | 378 |  [instagram-images-download-extension](https://github.com/davidmaillo/instagram-images-download-extension) | Google Chrome extension that helps you to download all the images from an Instagram&#39;s user profile page in a click, without API. Directly from browser. A very useful tool to backup your photos or from another user. | davidmaillo | 29 |
@@ -759,7 +759,7 @@
 | 448 |  [particles.js](https://github.com/VincentGarreau/particles.js) | A lightweight JavaScript library for creating particles | VincentGarreau | 20281 |
 | 449 |  [handlebars.js](https://github.com/wycats/handlebars.js) |  | wycats | 14858 |
 | 450 |  [Simple-Offline-Site](https://github.com/chriscoyier/Simple-Offline-Site) |  | chriscoyier | 269 |
-| 451 |  [parcel](https://github.com/parcel-bundler/parcel) | 📦🚀 Blazing fast, zero configuration web application bundler | parcel-bundler | 33576 |
+| 451 |  [parcel](https://github.com/parcel-bundler/parcel) | 📦🚀 Blazing fast, zero configuration web application bundler | parcel-bundler | 33577 |
 | 452 |  [enquire.js](https://github.com/WickyNilliams/enquire.js) | Awesome Media Queries in JavaScript | WickyNilliams | 3579 |
 | 453 |  [SpaceX-API](https://github.com/r-spacex/SpaceX-API) | :rocket: Open Source REST API for rocket, core, capsule, pad, and launch data | r-spacex | 2954 |
 | 454 |  [rallax.js](https://github.com/ChrisCavs/rallax.js) | Dead simple parallax scrolling. | ChrisCavs | 1349 |
@@ -851,7 +851,7 @@
 | 3 |  [nlp-tutorial](https://github.com/graykode/nlp-tutorial) | Natural Language Processing Tutorial for Deep Learning Researchers | graykode | 4693 |
 | 4 |  [ownphotos](https://github.com/hooram/ownphotos) | Self hosted alternative to Google Photos | hooram | 1276 |
 | 5 |  [cats_and_dogs_image_Classifier](https://github.com/cipher812/cats_and_dogs_image_Classifier) | A Keras image classifier for classifing cats and dogs with 95% accuracy | cipher812 | 1 |
-| 6 |  [fastai](https://github.com/fastai/fastai) | The fastai deep learning library, plus lessons and tutorials | fastai | 16065 |
+| 6 |  [fastai](https://github.com/fastai/fastai) | The fastai deep learning library, plus lessons and tutorials | fastai | 16066 |
 | 7 |  [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) | The &#34;Python Machine Learning (1st edition)&#34;  book code repository and info resource | rasbt | 10257 |
 | 8 |  [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) | Course Files for Complete Python 3 Bootcamp Course on Udemy | Pierian-Data | 6255 |
 | 9 |  [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | Python sample codes for robotics algorithms. | AtsushiSakai | 7094 |
@@ -948,8 +948,8 @@
 | 56 |  [HEAD](https://github.com/joshbuchea/HEAD) | 🗿 A list of everything that *could* go in the head of your document | joshbuchea | 26355 |
 | 57 |  [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | tiimgreen | 29104 |
 | 58 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 50465 |
-| 59 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91974 |
-| 60 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 91007 |
+| 59 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91975 |
+| 60 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 91008 |
 | 61 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 118334 |
 | 62 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 130497 |
 | 63 |  [How-to-Use-GitHub](https://github.com/llSourcell/How-to-Use-GitHub) | This is the supplementary material for &#34;How to Use GitHub&#34; By Siraj Raval on Youtube | llSourcell | 260 |
@@ -1075,7 +1075,7 @@
 ## Rust
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [starship](https://github.com/starship/starship) | ☄🌌️ The cross-shell prompt for astronauts. | starship | 3797 |
+| 1 |  [starship](https://github.com/starship/starship) | ☄🌌️ The cross-shell prompt for astronauts. | starship | 3798 |
 | 2 |  [spotify-tui](https://github.com/Rigellute/spotify-tui) | Spotify for the terminal written in Rust 🚀 | Rigellute | 3006 |
 | 3 |  [miniserve](https://github.com/svenstaro/miniserve) | :star2: For when you really just want to serve some files over HTTP right now! | svenstaro | 500 |
 | 4 |  [libra](https://github.com/libra/libra) | Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people. | libra | 13018 |
@@ -1149,7 +1149,7 @@
 | 20 |  [got](https://github.com/sindresorhus/got) | Simplified HTTP requests | sindresorhus | 5907 |
 | 21 |  [npkill](https://github.com/voidcosmos/npkill) | List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space. | voidcosmos | 1795 |
 | 22 |  [snyk](https://github.com/snyk/snyk) | CLI and build-time tool to find &amp; fix known vulnerabilities in open-source dependencies | snyk | 1796 |
-| 23 |  [deno](https://github.com/denoland/deno) | A secure JavaScript and TypeScript runtime | denoland | 39123 |
+| 23 |  [deno](https://github.com/denoland/deno) | A secure JavaScript and TypeScript runtime | denoland | 39124 |
 | 24 |  [stimulus](https://github.com/stimulusjs/stimulus) | A modest JavaScript framework for the HTML you already have | stimulusjs | 7636 |
 | 25 |  [react-nodegui](https://github.com/nodegui/react-nodegui) | Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀 | nodegui | 3734 |
 | 26 |  [react-dnd](https://github.com/react-dnd/react-dnd) | Drag and Drop for React | react-dnd | 12302 |
@@ -1209,7 +1209,7 @@
 ## Vue
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard) | Credit card form with smooth and sweet micro-interactions | muhammederdem | 2091 |
+| 1 |  [vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard) | Credit card form with smooth and sweet micro-interactions | muhammederdem | 2092 |
 | 2 |  [postwoman](https://github.com/liyasthomas/postwoman) | 👽 API request builder - Helps you create your requests faster, saving you precious time on your development https://postwoman.io | liyasthomas | 4390 |
 | 3 |  [cssgridgenerator](https://github.com/sdras/cssgridgenerator) | 🧮Generate basic CSS Grid code to make dynamic layouts! | sdras | 2554 |
 | 4 |  [google-keep-vue-firebase](https://github.com/bchiang7/google-keep-vue-firebase) | Google Keep clone with Vue.js and Firebase | bchiang7 | 17 |
