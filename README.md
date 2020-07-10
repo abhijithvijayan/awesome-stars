@@ -14,7 +14,7 @@
 - [HTML (1)](#html)
 - [Java (22)](#java)
 - [JavaScript (11)](#javascript)
-- [Jupyter&amp;nbsp;Notebook (1)](#jupyter-notebook)
+- [Jupyter Notebook (1)](#jupyter-notebook)
 - [Kotlin (1)](#kotlin)
 - [Python (4)](#python)
 - [Ruby (1)](#ruby)
