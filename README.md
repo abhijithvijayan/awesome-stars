@@ -73,7 +73,7 @@
 
 **[⬆ Back to Index](#-contents)**
 
-## C
+## C-lang
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [htop](https://github.com/htop-dev/htop) | htop - an interactive process viewer | htop-dev | 1566 |
