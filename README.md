@@ -669,7 +669,8 @@
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [studio](https://github.com/eez-open/studio) | Cross-platform low-code GUI and automation | eez-open | 1751 |
+| 1 |  [foundry](https://github.com/harelos/foundry) | Zero-dependency local AI worker control room and multi-agent task runner built on Node.js. | harelos | 5 |
+| 2 |  [studio](https://github.com/eez-open/studio) | Cross-platform low-code GUI and automation | eez-open | 1751 |
 | 2 |  [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) | Chrome Extensions Samples | GoogleChrome | 17698 |
 | 3 |  [stremio-web](https://github.com/Stremio/stremio-web) | Stremio - Freedom to Stream | Stremio | 12616 |
 | 4 |  [daedalOS](https://github.com/DustinBrett/daedalOS) | Desktop environment in the browser | DustinBrett | 12986 |
